@@ -1,3 +1,4 @@
+![image](https://github.com/Alhousainy23/Mask-detection-using-MobilNetV2/assets/125814743/d8ad1249-9f67-4ded-905f-0659c2cab6da)
 # Mask-detection-using-MobilNetV2 In Real Time 
 1. **Download Dataset (Sign Languages Digits ) , Then By using the code splitting ( Train,test,validation) data**
 2. **Start Coding in Mask detection using MobilNetV2 because prepare your data**
