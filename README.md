@@ -1,4 +1,4 @@
-# 3.-Mask-detection-using-MobilNetV2 In Real Time 
+# Mask-detection-using-MobilNetV2 In Real Time 
 1. **Download Dataset (Sign Languages Digits ) , Then By using the code splitting ( Train,test,validation) data**
 2. **Start Coding in Mask detection using MobilNetV2 because prepare your data**
 3. **And you are working hard on the model , take all hidden layers exept output layer**
