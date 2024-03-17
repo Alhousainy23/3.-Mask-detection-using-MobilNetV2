@@ -4,8 +4,8 @@
 3. **And you are working hard on the model , take all hidden layers exept output layer**
 4. **After ending from mask detection MobileNetV2 , Save model datatypes = "h5"**
 5. **`H5` Is refer to --> refers to Hierarchical Data Format version 5 (HDF5) , HDF5 is a file format and data model for storing and managing large and complex datasets.**
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Second --> After ending from create a specail model (mask detector model)
+* ------------------------------------------------------------------------------
+# Second --> After ending from create a specail model (mask detector model)
 * **Then Used --> 3 pretrained models with model**
   1. deploy.prototxt
   2. Caffe Model
